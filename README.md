@@ -1,2 +1,2 @@
 # classes
-Usando classes
+Classificando imc com alguns métodos
